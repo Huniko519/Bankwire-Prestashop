@@ -29,7 +29,7 @@
  */
 
 /* SSL Management */
-$useSSL = true;
+$useSSL = false;
 
 require('../../config/config.inc.php');
 Tools::displayFileAsDeprecated();
